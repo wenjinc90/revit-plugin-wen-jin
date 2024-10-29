@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+ <AddIn Type="Application">
+       <Name>WJTestForms</Name>
+       <FullClassName>WjTest.Class1</FullClassName>
+       <Assembly>C:\Users\wenji\OneDrive\Desktop\Revit Plugin 2nd\ClassLibrary1\ClassLibrary1\bin\Debug\ClassLibrary1.dll</Assembly>
+       <AddInId>55580AE8-5446-4D74-B90E-639A90F8C9A1</AddInId>
+    <VendorId>ADSK</VendorId>
+    <VendorDescription>BCA WJ Test</VendorDescription>
+ </AddIn>
+</RevitAddIns>
